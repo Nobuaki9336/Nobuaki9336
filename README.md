@@ -1,6 +1,7 @@
 Hey, my name is Marcus Lam 👋
 
-I have a Bachelor’s degree in Hospitality Management and I enjoy connecting with like-minded people.
+I love data and enjoy discovering various insights within it.
+Hope I can connect with like-minded people !!!
 
 
 <!---
